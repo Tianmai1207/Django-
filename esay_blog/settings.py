@@ -25,7 +25,7 @@ SECRET_KEY = 'gu4d#rwll(8pi_meh*b7x=3oblco^uj_i0^1nlmf+3q8zkr14o'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','localhost','.zhangzhuru.xin']
+ALLOWED_HOSTS = ['127.0.0.1','localhost','.tianmo.xin']
 
 
 # Application definition
