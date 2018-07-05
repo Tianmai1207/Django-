@@ -1,3 +1,11 @@
+服务器存放结构
+
+/home/yangxg/
+    sites/
+        demo.tianmo.xin/
+            env/
+            esay_blog/
+
 
 ## 资源列表
 
